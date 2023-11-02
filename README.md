@@ -11,3 +11,4 @@ This analysis involves a set of tasks to begin with. As an analyst, you are expe
                                                         OBJECTIVE:
 The objective of the project is to use MySQL to analyze the data of the movie rental store for further growth and improved business.
 
+ ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
