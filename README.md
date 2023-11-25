@@ -8,7 +8,7 @@ The management wants to analyze the data to understand what kind of movies and a
 This analysis would help them stock up the inventory of movies to improve their business.
 This analysis involves a set of tasks to begin with. As an analyst, you are expected to answer the questions put forth by the management
 
-                                                        OBJECTIVE:
+                                           OBJECTIVE:
 The objective of the project is to use MySQL to analyze the data of the movie rental store for further growth and improved business.
 
  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
